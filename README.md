@@ -259,4 +259,4 @@ Execute the programs and publish them.
 ![Alt text](suruli.png)
 
 ## Result:
-Write your result
+The Program for implementing image maps using HTML is executed successfully.
